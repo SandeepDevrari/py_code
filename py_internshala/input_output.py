@@ -1,0 +1,8 @@
+##print("Sandeep",end=' ')
+##print("Devrari")
+name=input("Enter your name: ")
+print("Welcome to Here, ",name)
+print("Type of input: ",type(name))
+n1=int(input("Enter a number"))
+n2=int(input("Enter second number"))
+print("Addition: ", n1+n2)

@@ -1,0 +1,3 @@
+##this is an part of examplepackage
+def fun():
+    print("this is from pack3");

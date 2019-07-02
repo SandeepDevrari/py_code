@@ -1,0 +1,12 @@
+##this is an example of import or modules
+def name():
+    n1=str(input("enter ur first name:"))
+    n2=str(input("enter ur last name:"))
+    return n1,n2
+
+def msg(n1,*n2):
+    print(str(n1))
+    #for i in n2:
+        #print(str(i))
+nick=str(input("enterr ur nick name:"))
+
